@@ -5,19 +5,10 @@
 var fs = require('fs');
 var JSONStream = require('jsonstream');
 
-var oldWay = require('./1-old-way.js');
-oldWay._name = 'old';
-
-var newWay = require('./2-new-way.js');
-newWay._name = 'new';
-
-var paginatedWay = require('./3-paginated-way.js');
-paginatedWay._name = 'paginated';
-
 var fnLookup = {
-  old: oldWay,
-  new: newWay,
-  paginated: paginatedWay
+  old: require('./1-old-way.js'),
+  new: require('./2-new-way.js'),
+  paginated: require('./3-paginated-way.js')
 };
 
 var startTime = Date.now();

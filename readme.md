@@ -22,62 +22,59 @@ Before a request goes out, the `process.memoryUsage().heapUsed` value is printed
 
 ### Results
 ```sh
-> npm run all
-
-> gcloud-stream-tests@1.0.0 all /Users/stephen/dev/play/gcloud-stream-experiment
 > npm run old && npm run new && npm run paginated
 
 
-> gcloud-stream-tests@1.0.0 old /Users/stephen/dev/play/gcloud-stream-experiment
+> gcloud-stream-tests@1.0.0 old /Users/stephen/dev/gcloud-stream-experiment
 > ./runner.js old
 
 Starting old
-0 mb
+1 mb
+-1 mb
+1 mb
+3 mb
+4 mb
+5 mb
+6 mb
 1 mb
 2 mb
-2 mb
-0 mb
-0 mb
-0 mb
-1 mb
-1 mb
-1 mb
-2 mb
-old completed in 11.114 seconds
+3 mb
+4 mb
+old completed in 11.13 seconds
 
-> gcloud-stream-tests@1.0.0 new /Users/stephen/dev/play/gcloud-stream-experiment
+> gcloud-stream-tests@1.0.0 new /Users/stephen/dev/gcloud-stream-experiment
 > ./runner.js new
 
 Starting new
 0 mb
-0 mb
-2 mb
-3 mb
-5 mb
+6 mb
 6 mb
 7 mb
-8 mb
-2 mb
-3 mb
+7 mb
+7 mb
+6 mb
+5 mb
 4 mb
-new completed in 11.192 seconds
+3 mb
+10 mb
+new completed in 11.396 seconds
 
-> gcloud-stream-tests@1.0.0 paginated /Users/stephen/dev/play/gcloud-stream-experiment
+> gcloud-stream-tests@1.0.0 paginated /Users/stephen/dev/gcloud-stream-experiment
 > ./runner.js paginated
 
 Starting paginated
 0 mb
-0 mb
-2 mb
-3 mb
-4 mb
-5 mb
+-1 mb
+7 mb
 6 mb
-8 mb
-1 mb
-2 mb
+6 mb
+5 mb
+5 mb
 3 mb
-paginated completed in 11.186 seconds
+2 mb
+1 mb
+8 mb
+paginated completed in 11.441 seconds
 ```
 
 ### Questions
