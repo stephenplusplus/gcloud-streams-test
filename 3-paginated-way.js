@@ -2,6 +2,7 @@
 
 var continueStream = require('continue-stream');
 var JSONStream = require('jsonstream');
+var pluck = require('pluck-stream');
 var pumpify = require('pumpify');
 var request = require('request');
 
@@ -34,15 +35,17 @@ function makeRequest(reqOpts, onRequest) {
     var toFileStream = JSONStream.parse('items.*', helpers.toFileObject);
     var pipe = pumpify.obj(requestStream, toFileStream);
 
-    helpers.parseJSONFromRequest(requestStream, ['error.errors.*', 'nextPageToken'])
-      .once('error.errors.*', function(err) {
-        pipe.destroy(err);
-      })
-      .once('nextPageToken', function(token) {
-        if (runCount <= MAX_RUNS) {
-          nextPageToken = token;
-        }
-      });
+    requestStream.once('response', function(res) {
+      pluck(res, ['error.errors.*', 'nextPageToken'])
+        .once('error.errors.*', function(err) {
+          pipe.destroy(err);
+        })
+        .once('nextPageToken', function(token) {
+          if (runCount <= MAX_RUNS) {
+            nextPageToken = token;
+          }
+        });
+    });
 
     callback(null, pipe);
   }

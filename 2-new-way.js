@@ -2,6 +2,7 @@
 
 var duplexify = require('duplexify');
 var JSONStream = require('jsonstream');
+var pluck = require('pluck-stream');
 var pumpify = require('pumpify');
 var request = require('request');
 var through = require('through2');
@@ -34,13 +35,15 @@ function makeRequest(reqOpts, onRequest) {
   var pipe = pumpify.obj(req, toFileStream, paginateStream);
   dup.setReadable(pipe);
 
-  helpers.parseJSONFromRequest(req, ['error.errors.*', 'nextPageToken'])
-    .once('error.errors.*', function(err) {
-      pipe.destroy(err);
-    })
-    .once('nextPageToken', function(token) {
-      nextPageToken = token;
-    });
+  req.once('response', function(res) {
+    pluck(res, ['error.errors.*', 'nextPageToken'])
+      .once('error.errors.*', function(err) {
+        pipe.destroy(err);
+      })
+      .once('nextPageToken', function(token) {
+        nextPageToken = token;
+      });
+  });
 
   return dup;
 }
