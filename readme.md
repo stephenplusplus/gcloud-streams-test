@@ -1,13 +1,13 @@
 This is a working test implementation of recursively fetching and transforming paginated data from the Google Cloud Storage API.
 
-We've been doing it **The Old Way** since the beginning, but recently I [started wondering](https://github.com/GoogleCloudPlatform/gcloud-node/issues/802) if we could do it better. I explain the different techniques below, and I've asked some [questions](https://github.com/stephenplusplus/gcloud-streams-test/issues/1) I hope you can take a look at.
+We've been doing it the "old way" since the beginning, but recently I [started wondering](https://github.com/GoogleCloudPlatform/gcloud-node/issues/802) if we could do it better. I explain the different techniques below, and I've asked some [questions](https://github.com/stephenplusplus/gcloud-streams-test/issues/1) I hope you can take a look at.
 
 Thank you very much!
 
 #### The Techniques
-  1. **Old** - This is the way we do it currently in gcloud. We make an API request, we get the entire response, then iterate over each result and push it onto the user's stream.
+  1. **[Old](1-old-way.js)** - This is the way we do it currently in [gcloud](https://github.com/googlecloudplatform/gcloud-node). We make an API request, and from the entire response, we iterate over each result and push it onto the user's stream.
 
-  2. **New** - This makes a streaming request, pipes it to JSONStream to parse for the results we need, using [continue-stream](http://gitnpm.com/continue-stream) to handle pagination.
+  2. **[New](2-new-way.js)** - This makes a streaming request, pipes it to JSONStream to parse for the results we need, using [continue-stream](http://gitnpm.com/continue-stream) to handle pagination.
 
 ### The Tests
 I found that speed is nothing to worry about measuring. When testing with both a mock server and the actual backend, all of the tests performed within a reasonable amount of time. I became more conerned with the memory usage and the overhead of assembling many streams (new way) as opposed to one (old way).
@@ -15,7 +15,7 @@ I found that speed is nothing to worry about measuring. When testing with both a
 Anytime the `process.memoryUsage().heapUsed` value changes, its value is printed along with how many results have been processed at that time.
 
   - `npm start` - Start the server.
-  - `npm run all` - Run both of the tests in series.
+  - `npm run all` - Run all of the tests in series.
   - `npm run old` - Run the old style.
   - `npm run new` - Run the new style.
 
