@@ -19,7 +19,7 @@ console.log('Starting', fnName);
 
 var resultsReceived = 0;
 
-fnLookup[fnName]({ uri: 'http://localhost:8001' }, function() {}, logMemoryUsage)
+fnLookup[fnName]({ uri: 'http://localhost:8001' })
   .on('error', function(err) { throw err; })
   .on('data', function() {
     resultsReceived++;

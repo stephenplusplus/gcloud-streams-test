@@ -7,13 +7,12 @@ var helpers = require('./helpers.js');
 var MAX_RUNS = helpers.cfg.runs;
 var runCount = 0;
 
-function makeRequest(reqOpts, onRequest) {
+function makeRequest(reqOpts) {
   var stream = through.obj();
   req(reqOpts);
   return stream;
 
   function req(reqOpts) {
-    onRequest();
     runCount++;
 
     request(reqOpts, function(err, resp, body) {

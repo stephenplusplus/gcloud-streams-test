@@ -9,7 +9,7 @@ var request = require('request');
 var helpers = require('./helpers.js');
 var MAX_RUNS = helpers.cfg.runs;
 
-function makeRequest(reqOpts, onRequest) {
+function makeRequest(reqOpts) {
   var runCount = 0;
   var nextPageToken;
 
@@ -22,8 +22,6 @@ function makeRequest(reqOpts, onRequest) {
       callback();
       return;
     }
-
-    onRequest();
 
     if (nextPageToken) {
       reqOpts.qs = reqOpts.qs || {};
