@@ -1,15 +1,16 @@
 {
+  "nextPageToken": "anything",
   "items": [
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-1",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -21,14 +22,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-2",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -40,14 +41,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-3",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -59,14 +60,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-4",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -78,14 +79,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-5",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -97,14 +98,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-6",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -116,14 +117,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-7",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -135,14 +136,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-8",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -154,14 +155,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-9",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -173,14 +174,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-10",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -192,14 +193,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-11",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -211,14 +212,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-12",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -230,14 +231,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-13",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -249,14 +250,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-14",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -268,14 +269,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-15",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -287,14 +288,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-16",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -306,14 +307,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-17",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -325,14 +326,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-18",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -344,14 +345,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-19",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -363,14 +364,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-20",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -382,14 +383,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-21",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -401,14 +402,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-22",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -420,14 +421,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-23",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -439,14 +440,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-24",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -458,14 +459,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-25",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -477,14 +478,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-26",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -496,14 +497,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-27",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -515,14 +516,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-28",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -534,14 +535,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-29",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -553,14 +554,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-30",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -572,14 +573,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-31",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -591,14 +592,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-32",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -610,14 +611,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-33",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -629,14 +630,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-34",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -648,14 +649,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-35",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -667,14 +668,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-36",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -686,14 +687,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-37",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -705,14 +706,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-38",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -724,14 +725,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-39",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -743,14 +744,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-40",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -762,14 +763,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-41",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -781,14 +782,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-42",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -800,14 +801,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-43",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -819,14 +820,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-44",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -838,14 +839,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-45",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -857,14 +858,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-46",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -876,14 +877,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-47",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -895,14 +896,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-48",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -914,14 +915,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-49",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -933,14 +934,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-50",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -952,14 +953,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-51",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -971,14 +972,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-52",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -990,14 +991,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-53",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1009,14 +1010,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-54",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1028,14 +1029,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-55",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1047,14 +1048,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-56",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1066,14 +1067,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-57",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1085,14 +1086,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-58",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1104,14 +1105,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-59",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1123,14 +1124,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-60",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1142,14 +1143,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-61",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1161,14 +1162,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-62",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1180,14 +1181,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-63",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1199,14 +1200,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-64",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1218,14 +1219,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-65",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1237,14 +1238,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-66",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1256,14 +1257,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-67",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1275,14 +1276,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-68",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1294,14 +1295,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-69",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1313,14 +1314,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-70",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1332,14 +1333,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-71",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1351,14 +1352,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-72",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1370,14 +1371,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-73",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1389,14 +1390,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-74",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1408,14 +1409,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-75",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1427,14 +1428,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-76",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1446,14 +1447,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-77",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1465,14 +1466,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-78",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1484,14 +1485,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-79",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1503,14 +1504,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-80",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1522,14 +1523,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-81",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1541,14 +1542,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-82",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1560,14 +1561,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-83",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1579,14 +1580,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-84",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1598,14 +1599,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-85",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1617,14 +1618,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-86",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1636,14 +1637,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-87",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1655,14 +1656,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-88",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1674,14 +1675,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-89",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1693,14 +1694,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-90",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1712,14 +1713,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-91",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1731,14 +1732,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-92",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1750,14 +1751,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-93",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1769,14 +1770,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-94",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1788,14 +1789,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-95",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1807,14 +1808,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-96",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1826,14 +1827,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-97",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1845,14 +1846,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-98",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1864,14 +1865,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-99",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1883,14 +1884,14 @@
     },
     {
       "kind": "storage#bucket",
-      "id": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
-      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "id": "gcloud-test-bucket-temp-100",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gcloud-test-bucket-temp",
       "projectNumber": "288560394597",
-      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629a45ec16",
+      "name": "gcloud-test-bucket-temp-1116ecd0-27e4-11e5-9336-d9629afffc16",
       "timeCreated": "2015-07-11T15:47:00.242Z",
       "metageneration": "15",
       "owner": {
-        "entity": "project-owners-288560394597"
+        "entity": "project-owners-2833039459"
       },
       "location": "US",
       "website": {
@@ -1900,6 +1901,5 @@
       "storageClass": "STANDARD",
       "etag": "CA8="
     }
-  ],
-  "nextPageToken": "anything"
+  ]
 }

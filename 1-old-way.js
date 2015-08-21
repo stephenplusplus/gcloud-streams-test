@@ -14,6 +14,7 @@ function makeRequest(reqOpts, onRequest) {
 
   function req(reqOpts) {
     onRequest();
+    runCount++;
 
     request(reqOpts, function(err, resp, body) {
       body = JSON.parse(body);
@@ -21,7 +22,7 @@ function makeRequest(reqOpts, onRequest) {
       var pageToken = body.nextPageToken;
       body.items.map(helpers.toFileObject).forEach(stream.push.bind(stream));
 
-      if (pageToken && runCount++ < MAX_RUNS) {
+      if (pageToken && runCount < MAX_RUNS) {
         reqOpts.qs = reqOpts.qs || {};
         reqOpts.qs.pageToken = pageToken;
         req(reqOpts);

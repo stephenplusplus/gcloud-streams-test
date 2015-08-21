@@ -5,10 +5,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "all": "npm run old && npm run new && npm run paginated",
+    "all": "npm run old && npm run new",
     "old": "./runner.js old",
-    "new": "./runner.js new",
-    "paginated": "./runner.js paginated"
+    "new": "./runner.js new"
   },
   "keywords": [],
   "author": "",

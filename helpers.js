@@ -2,7 +2,7 @@
 
 module.exports = {
   cfg: {
-    runs: 10
+    runs: 3
   },
 
   toFileObject: function(fileMetadata) {
