@@ -12,16 +12,17 @@ var MAX_RUNS = helpers.cfg.runs;
 var runCount = 0;
 
 function makeRequest(reqOpts, onRequest) {
-  var dup = duplexify.obj();
-
   onRequest();
 
+  var dup = duplexify.obj();
   var req = request(reqOpts);
-
   var toFileStream = JSONStream.parse('items.*', helpers.toFileObject);
+  var paginateStream = through.obj();
+
+  var pipe = pumpify.obj(req, toFileStream, paginateStream);
+  dup.setReadable(pipe);
 
   var nextPageToken;
-  var paginateStream = through.obj();
   paginateStream._flush = function (callback) {
     if (nextPageToken && runCount++ < MAX_RUNS) {
       reqOpts.qs = reqOpts.qs || {};
@@ -31,9 +32,6 @@ function makeRequest(reqOpts, onRequest) {
       callback();
     }
   };
-
-  var pipe = pumpify.obj(req, toFileStream, paginateStream);
-  dup.setReadable(pipe);
 
   req.once('response', function(res) {
     pluck(res, ['error.errors.*', 'nextPageToken'])
