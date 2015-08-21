@@ -1,13 +1,15 @@
 This is a working test implementation of recursively fetching and transforming paginated data from the Google Cloud Storage API.
 
-#### The Techniques
+We've been doing it **The Old Way** since the beginning, but recently I [started wondering](https://github.com/GoogleCloudPlatform/gcloud-node/issues/802) if we could do it better. I explain the different techniques below, and I've asked some [questions](https://github.com/stephenplusplus/gcloud-streams-test/issues/1) I hope you can take a look at.
 
+Thank you very much!
+
+#### The Techniques
   1. **Old** - This is the way we do it currently in gcloud. We make an API request, we get the entire response, then iterate over each result and push it onto the user's stream.
 
   2. **New** - This makes a streaming request, pipes it to JSONStream to parse for the results we need, using [continue-stream](http://gitnpm.com/continue-stream) to handle pagination.
 
 ### The Tests
-
 I found that speed is nothing to worry about measuring. When testing with both a mock server and the actual backend, all of the tests performed within a reasonable amount of time. I became more conerned with the memory usage and the overhead of assembling many streams (new way) as opposed to one (old way).
 
 Anytime the `process.memoryUsage().heapUsed` value changes, its value is printed along with how many results have been processed at that time.
@@ -53,17 +55,3 @@ Starting new
 4 mb 259 results handled
 new completed in 3.161 seconds
 ```
-
-### Questions
-
-  1. Is this so wrong, I should just stop?
-
-  2. The API returns a JSON response that may contain either of the following:
-
-    1. An `errors` array.
-
-    2. An `items` array.
-
-  Is branching off two response streams to get a nextPageToken and errors the wrong way to snip out just a piece of the response? Is there a lot of overhead?
-
-I'm so thankful for any help and happy to answer questions about this!
