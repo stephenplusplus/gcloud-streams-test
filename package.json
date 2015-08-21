@@ -1,0 +1,25 @@
+{
+  "name": "gcloud-stream-tests",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "all": "npm run old && npm run new && npm run paginated",
+    "old": "./runner.js old",
+    "new": "./runner.js new",
+    "paginated": "./runner.js paginated"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "continue-stream": "^2.0.0",
+    "duplexify": "^3.4.2",
+    "express": "^4.13.3",
+    "jsonstream": "^1.0.3",
+    "pumpify": "^1.3.3",
+    "request": "^2.60.0",
+    "through2": "^2.0.0"
+  }
+}
